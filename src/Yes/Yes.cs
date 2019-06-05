@@ -1,6 +1,6 @@
 using System;
 
-namespace GamesAndUselessGadgets
+namespace GamesAndUselessGadgets.Yes
 {
     /// <summary>
     /// Just repeat a string until interrupted.

@@ -1,7 +1,7 @@
 using System;
 using CommandLine;
 
-namespace GamesAndUselessGadgets
+namespace GamesAndUselessGadgets.Yes
 {
     /// <summary>
     /// The class that contains the launcher of yes.

@@ -1,7 +1,7 @@
 using System;
 using CommandLine;
 
-namespace GamesAndUselessGadgets
+namespace GamesAndUselessGadgets.Yes
 {
     /// <summary>
     /// Used to save content of parsed command line.
