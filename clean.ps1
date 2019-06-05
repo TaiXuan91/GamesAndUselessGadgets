@@ -1,3 +1,1 @@
-cd ./src
-dotnet clean
-cd ..
+dotnet clean ./src

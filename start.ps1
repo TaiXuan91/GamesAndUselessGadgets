@@ -1,3 +1,1 @@
-cd ./src
-dotnet run -- $args
-cd ..
+dotnet run -p ./src -- $args
